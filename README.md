@@ -3,7 +3,7 @@ Personal website
 
 ## Education
 |University|Qualification|Years|
-|-:|:-:|:-|
+|-|-|-|
 |Moscow State University of Instrument Engineering and Computer Science|Technician (Optical and optical electronic devices and systems)|2009-2012|
 |Moscow State University of Geodesy and Cartography|Bachelor (Applied optics)|2012-2017|
 |Bauman Moscow State Technical University|Master (Laser and optoelectronic systems)|2017-2019|
