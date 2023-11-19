@@ -1,4 +1,4 @@
-# Otkupman.github.io
+# Otkupman D.G.
 Personal website
 
 
